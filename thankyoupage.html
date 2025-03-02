@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #FCEFEF; /* Pastel pinkish background */
+            margin: 0;
+            position: relative;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            border: 3px solid #FFB6C1; /* Soft pink border */
+            width: 50%;
+        }
+        h1 {
+            color: #8B5E83; /* Dark pastel shade */
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        p {
+            color: #555;
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            font-size: 18px;
+            color: white;
+            background-color: #FF9AA2; /* Pastel pink */
+            border: none;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: 0.3s;
+            font-weight: bold;
+            box-shadow: 0px 4px 10px rgba(255, 154, 162, 0.5);
+        }
+        .btn:hover {
+            background-color: #FF7F8E;
+            box-shadow: 0px 4px 12px rgba(255, 127, 142, 0.6);
+        }
+        /* Stickers */
+        .sticker-header {
+            width: 80px;
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .sticker-heart {
+            width: 60px;
+            position: absolute;
+            bottom: 80px;
+            right: 50px;
+        }
+        .sticker-hospital {
+            width: 50px;
+            position: absolute;
+            bottom: 60px;
+            left: 20px;
+        }
+        .sticker-footer {
+            width: 60px;
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="pookie-header.png" alt="Pookie Girl Blush" class="sticker-header">
+    
+    <div class="container">
+        <h1>Thank You!</h1>
+        <p>Thank you for completing the form. You may now proceed with <b>Banasthali Aarogya Seva</b>.</p>
+        <p>If you need a copy of this form, you can download it from your profile section.</p>
+        <p>Take care and stay healthy! 💖</p>
+        <a href="home.php" class="btn">Proceed Further</a>
+    </div>
+
+    <img src="pookie-heart.png" alt="Pookie Girl Holding Heart" class="sticker-heart">
+    <img src="hospital-icon.png" alt="Hospital Heart Rate" class="sticker-hospital">
+    <img src="stethoscope-bandage.png" alt="Stethoscope Bandage" class="sticker-footer">
+
+</body>
+</html>

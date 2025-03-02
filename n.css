@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #242f63; /* Dark Blue */
+    background-image: url(https://scontent.fjai2-1.fna.fbcdn.net/v/t39.30808-6/345461563_961693425181994_8889799220599797490_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=2285d6&_nc_ohc=TM9nguuujawQ7kNvgHcRAob&_nc_zt=23&_nc_ht=scontent.fjai2-1.fna&_nc_gid=AuOAxpm4UfDBjxEaK7ww2kV&oh=00_AYB0GfySO4Wis2XrwIq81zPEk5RWH6BgaYr4_U1bAbiiDg&oe=679BAFA1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.c1{
+    background-color: white;
+    color: #1e3a8a;
+    border-radius: 40px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%;
+    text-align: center;
+    max-width: 530px;
+}
+
+label {
+    display: block;
+    margin-top: 25px;
+    font-size: 0.9em;
+    text-align: left;
+}
+
+input, select {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 30px;
+    height: 30px;
+
+}
+
+button {
+    width: 26%;
+    background-color: #1e3a8a;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 30px;
+    height: 44px;
+}
+
+button:hover {
+    background-color: #172554;
+}

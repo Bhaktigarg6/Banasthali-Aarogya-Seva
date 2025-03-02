@@ -1,0 +1,186 @@
+Form Data:
+Array
+(
+    [class] => btech
+    [session] => dec-may
+    [id_no] => btbtc220282
+    [name] => nnaih
+    [parentName] => hjh
+    [dob] => 2025-02-08
+    [height] => 153
+    [weight] => 76
+    [address] => Banasthali Vidyapith Univeristy, Rajasthan, 304022
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => no
+    [exertion] => yes
+    [communication] => yes
+    [vision] => no
+    [learning] => yes
+    [details] => nklnlk
+)
+Form Data:
+Array
+(
+    [class] => btech
+    [session] => dec-may
+    [id_no] => btbtc220282
+    [name] => nnaih
+    [parentName] => hjh
+    [dob] => 2025-02-28
+    [height] => 153
+    [weight] => 76
+    [address] => Banasthali Vidyapith Univeristy, Rajasthan, 304022
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => yes
+    [learning] => yes
+    [details] => nlkmnlkn
+)
+Success: Data inserted successfully
+Form Data:
+Array
+(
+    [class] => 
+    [session] => 
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 2025-03-01
+    [height] => 342
+    [weight] => 231
+    [address] => 15/69, Isha Nagar Sasni Gate Aligarh, Uttar Pradesh, 202001
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => no
+    [learning] => no
+    [details] => 
+)
+Success: Data inserted successfully
+Form Data:
+Array
+(
+    [class] => 
+    [session] => 
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 2025-03-01
+    [height] => 342
+    [weight] => 231
+    [address] => 15/69, Isha Nagar Sasni Gate Aligarh, Uttar Pradesh, 202001
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => no
+    [learning] => no
+    [details] => 
+)
+Form Data:
+Array
+(
+    [class] => 
+    [session] => 
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 
+    [height] => 342
+    [weight] => 231
+    [address] => wcdsa
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [details] => 
+)
+Form Data:
+Array
+(
+    [class] => 
+    [session] => 
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 
+    [height] => 342
+    [weight] => 231
+    [address] => wcdsa
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => yes
+    [learning] => yes
+    [details] => 
+)
+Form Data:
+Array
+(
+    [class] => btech
+    [session] => dec-may
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 2025-02-15
+    [height] => 342
+    [weight] => 231
+    [address] => 15/69, Isha Nagar Sasni Gate Aligarh, Uttar Pradesh, 202001
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => no
+    [exertion] => yes
+    [communication] => yes
+    [vision] => yes
+    [learning] => no
+    [details] => final check
+)
+Form Data:
+Array
+(
+    [class] => btech
+    [session] => dec-may
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 2025-02-28
+    [height] => 342
+    [weight] => 231
+    [address] => Banasthali Vidyapith Univeristy, Rajasthan, 304022
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => yes
+    [learning] => yes
+    [details] => 
+)
+Form Data:
+Array
+(
+    [class] => btech
+    [session] => dec-may
+    [id_no] => 
+    [name] => Bhakti Garg
+    [parentName] => dswwedf
+    [dob] => 2025-03-15
+    [height] => 342
+    [weight] => 231
+    [address] => Banasthali Vidyapith Univeristy, Rajasthan, 304022
+    [phone] => 07906145600
+    [email] => bhaktigarg237@gmail.com
+    [mobility] => yes
+    [exertion] => yes
+    [communication] => yes
+    [vision] => yes
+    [learning] => yes
+    [details] => connected page@42543
+)
